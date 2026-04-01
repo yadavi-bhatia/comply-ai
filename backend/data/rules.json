@@ -1,0 +1,23 @@
+[
+  {
+    "industry": "fintech",
+    "region": "india",
+    "status": "non-compliant",
+    "missing": ["transparency"],
+    "risk": "HIGH"
+  },
+  {
+    "industry": "healthcare",
+    "region": "usa",
+    "status": "partially-compliant",
+    "missing": ["data privacy"],
+    "risk": "MEDIUM"
+  },
+  {
+    "industry": "ecommerce",
+    "region": "india",
+    "status": "compliant",
+    "missing": [],
+    "risk": "LOW"
+  }
+]
